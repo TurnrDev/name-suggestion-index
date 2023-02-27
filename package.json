@@ -88,7 +88,7 @@
     "@rollup/plugin-node-resolve": "^11.1.0",
     "clear": "^0.1.0",
     "colors": "^1.1.2",
-    "eslint": "^7.18.0",
+    "eslint": "^8.35.0",
     "fs-extra": "^9.0.1",
     "geojson-precision": "^1.0.0",
     "geojson-rewind": "^0.3.1",
